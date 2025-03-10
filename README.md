@@ -30,22 +30,22 @@
 
 ### Check-lists
 #### PC Games:
--[Battle Of The Wild West](https://docs.google.com/spreadsheets/d/1w2ZkR5FdwMIrIE44XGJeROzsWegji24kp6EaCHNZjpk/edit?usp=sharing)
--[AgeOfMystery](https://docs.google.com/spreadsheets/d/1fYvrTOEXmBCPJZvLjaHi2jir1b7KCteQ7UdiGaGBSMU/edit?usp=sharing)
+- [Battle Of The Wild West](https://docs.google.com/spreadsheets/d/1w2ZkR5FdwMIrIE44XGJeROzsWegji24kp6EaCHNZjpk/edit?usp=sharing)
+- [AgeOfMystery](https://docs.google.com/spreadsheets/d/1fYvrTOEXmBCPJZvLjaHi2jir1b7KCteQ7UdiGaGBSMU/edit?usp=sharing)
 
 
 #### Mobile games:
--[WorldRace](https://docs.google.com/spreadsheets/d/12aQ-G8WCwScncy_IKBrjXPAFW7HuOhgh/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
--[Terarforma](https://docs.google.com/spreadsheets/d/137SLtUmbvtiHhQgaqgpBCdOzAfrK7rzHeZsJ9TlYYJQ/edit?usp=sharing)
--[Little Shooter](https://docs.google.com/spreadsheets/d/1pMwHx_sFUt5aiC6DQXKqfMUP3be_9ERi/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
--[Angry Birds](https://docs.google.com/spreadsheets/d/1qyBUsoAzgdXo9ehRZmgX71-gi3aPpSDIKFn-ekvOY5k/edit?usp=sharing)
+- [WorldRace](https://docs.google.com/spreadsheets/d/12aQ-G8WCwScncy_IKBrjXPAFW7HuOhgh/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
+- [Terarforma](https://docs.google.com/spreadsheets/d/137SLtUmbvtiHhQgaqgpBCdOzAfrK7rzHeZsJ9TlYYJQ/edit?usp=sharing)
+- [Little Shooter](https://docs.google.com/spreadsheets/d/1pMwHx_sFUt5aiC6DQXKqfMUP3be_9ERi/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
+- [Angry Birds](https://docs.google.com/spreadsheets/d/1qyBUsoAzgdXo9ehRZmgX71-gi3aPpSDIKFn-ekvOY5k/edit?usp=sharing)
 
 #### Web-sites:
--[leaky.ru](https://docs.google.com/spreadsheets/d/1e4olPT8oirxIYBH3scaqDZKkzQKOOE6A/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
--[tallin](https://docs.google.com/spreadsheets/d/1HePvO0N-zylBtIABcKL6V52t0YOC1Djx/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
--[testmonge](https://docs.google.com/spreadsheets/d/1TYS8kvOcKzkq6YW-WQg1-1L5M-8NdYhM/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
--[smartfunding](https://docs.google.com/spreadsheets/d/1yYWGoGG9UWwh-gjC4wjjqDxGoJiuBCeF/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
--[HouseForever](https://docs.google.com/spreadsheets/d/1rTCzeFmfbNpO1LSG9oKUGXmUlqMgnXUP/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+- [leaky.ru](https://docs.google.com/spreadsheets/d/1e4olPT8oirxIYBH3scaqDZKkzQKOOE6A/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+- [tallin](https://docs.google.com/spreadsheets/d/1HePvO0N-zylBtIABcKL6V52t0YOC1Djx/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+- [testmonge](https://docs.google.com/spreadsheets/d/1TYS8kvOcKzkq6YW-WQg1-1L5M-8NdYhM/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+- [smartfunding](https://docs.google.com/spreadsheets/d/1yYWGoGG9UWwh-gjC4wjjqDxGoJiuBCeF/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+- [HouseForever](https://docs.google.com/spreadsheets/d/1rTCzeFmfbNpO1LSG9oKUGXmUlqMgnXUP/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
   
 ### Test cases 
 
