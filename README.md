@@ -30,29 +30,36 @@
 
 ### Check-lists
 #### PC Games:
-- [Snake](https://docs.google.com/spreadsheets/d/1V_yq9WYhcOcOYusnVa_jLoPVtuws2JOoNniAK99ZRY0/edit?usp=sharing)
-- [Electric Trains](https://docs.google.com/spreadsheets/d/17bMMnNUVOhnC9cd60_owsw8Q_bXk1ltRRnm8720e-sU/edit?usp=sharing)
+-[Battle Of The Wild West](https://docs.google.com/spreadsheets/d/1w2ZkR5FdwMIrIE44XGJeROzsWegji24kp6EaCHNZjpk/edit?usp=sharing)
+-[AgeOfMystery](https://docs.google.com/spreadsheets/d/1fYvrTOEXmBCPJZvLjaHi2jir1b7KCteQ7UdiGaGBSMU/edit?usp=sharing)
+
 
 #### Mobile games:
-- [Gallery](https://docs.google.com/spreadsheets/d/1VK-BWJjc1KzcyUsuuzhlSqKM6lMJdfIXvSmtCEI1DRk/edit?usp=sharing)
+-[WorldRace](https://docs.google.com/spreadsheets/d/12aQ-G8WCwScncy_IKBrjXPAFW7HuOhgh/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
+-[Terarforma](https://docs.google.com/spreadsheets/d/137SLtUmbvtiHhQgaqgpBCdOzAfrK7rzHeZsJ9TlYYJQ/edit?usp=sharing)
+-[Little Shooter](https://docs.google.com/spreadsheets/d/1pMwHx_sFUt5aiC6DQXKqfMUP3be_9ERi/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
+-[Angry Birds](https://docs.google.com/spreadsheets/d/1qyBUsoAzgdXo9ehRZmgX71-gi3aPpSDIKFn-ekvOY5k/edit?usp=sharing)
 
 #### Web-sites:
-- [Ecdevstudio](https://docs.google.com/spreadsheets/d/1tihMMcNegUD9QzY5epQLN-j9qOaB6g5NagdF4bCWwrE/edit?usp=sharing)
-- [Tutortonic](https://docs.google.com/spreadsheets/d/1CG0gB3kHgX86Jxy-REjhh59afwRI_t7812tTvfrMC3o/edit?usp=sharing)
-- [9courses](https://docs.google.com/spreadsheets/d/1wG84ZtTD3FOf1ntu5lAbCNTqmnjzB4qp5KN1A_qr5zg/edit?usp=sharing)
+-[leaky.ru](https://docs.google.com/spreadsheets/d/1e4olPT8oirxIYBH3scaqDZKkzQKOOE6A/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+-[tallin](https://docs.google.com/spreadsheets/d/1HePvO0N-zylBtIABcKL6V52t0YOC1Djx/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+-[testmonge](https://docs.google.com/spreadsheets/d/1TYS8kvOcKzkq6YW-WQg1-1L5M-8NdYhM/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+-[smartfunding](https://docs.google.com/spreadsheets/d/1yYWGoGG9UWwh-gjC4wjjqDxGoJiuBCeF/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+-[HouseForever](https://docs.google.com/spreadsheets/d/1rTCzeFmfbNpO1LSG9oKUGXmUlqMgnXUP/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
   
 ### Test cases 
 
 
 #### Web-sites:
 
-- [9Courses](https://docs.google.com/spreadsheets/d/1sF0a9RbzayeZzkHU46Y45uInGOUiySbJMn2xRoUjepI/edit?usp=sharing)
-- [EcDevStudio](https://docs.google.com/spreadsheets/d/12hSkaOnMwMku8i6eQ4CJBZwqpkl6x2NMe6ECiic3t8U/edit?usp=sharing)
+- [Smart Fundig](https://docs.google.com/spreadsheets/d/11sQ2G4aYpOcoR3vsdOxslWzdwQZK4nPv/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
+- [Tallin](https://docs.google.com/spreadsheets/d/1u4TI5ZVWtNk24CpALvCIQja4DJYxU-bH/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
 
-#### PC Games:
 
-- [Electric trains](https://docs.google.com/spreadsheets/d/12hSkaOnMwMku8i6eQ4CJBZwqpkl6x2NMe6ECiic3t8U/edit?usp=sharing)
-
+### Mobile Games
+- [Angry Birds](https://docs.google.com/spreadsheets/d/1ToTPgLENCEDbmuuuQikCquVdIV4BTe9B/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
+- [World race](https://docs.google.com/spreadsheets/d/1rGApuEUecxGNjvBQaQinI_68KRBBeEwp/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
+- [Little Shooter](https://docs.google.com/spreadsheets/d/1e3miEz_SYAQQq-qNylgvTnYpQugYmG2L/edit?usp=sharing&ouid=113207089386750526712&rtpof=true&sd=true)
 
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
