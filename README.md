@@ -9,24 +9,24 @@
 ### Bug-reports 
 
 ##### PC games:
-- [AgeOfMystery](https://trello.com/b/4N4ywTLf/ageofmystery)
-- [BattleOftheWildWest](https://trello.com/b/Qje8w8XV/battleofthewildwest)
+- [AgeOfMystery](https://trello.com/b/D8nDn8MK/age-of-mystery)
+- [BattleOftheWildWest](https://trello.com/b/gaiaa2iW/butter-of-the-willd)
 
 #### Mobile games: 
-- [FarmingFever](https://trello.com/b/5c4UPC90/farmingfever)
-- [Gallery](https://trello.com/b/KAgweUmS/gallery)
-- [HowToDiceMushroom](https://trello.com/b/yGLx3PqF/howtodicemushrooms)
-- [LittleShooter](https://trello.com/b/JDMDCk89/littleshooter)
+- [LittleShooter](https://trello.com/b/GkqMdhxS/little-shooter)
+- [LittleShooter old](https://trello.com/b/CDWegczY/little-shooter-old-version)
+- [Cards Master](https://trello.com/b/llFW2JxV/cards-master)
+- [Terraforma](https://trello.com/b/MydhIHSV/terraforma)
+- [World Race](https://trello.com/b/knkPU1hS/world-race)
 
 #### Web-sites:
 
-- [9Courses](https://trello.com/b/47DPHbRb/9courses)
-- [pwa-theme-woocommerce](https://trello.com/b/arKNNCfS/pwa-theme-woocommerce)
-- [Rainy Roof Reastaurant](https://trello.com/b/4HqHdXiz/rainy-roof-reastaurant)
-- [ROYAL HOUSE](https://trello.com/b/8Pa1xNkp/royal-house)
-- [Tallinn](https://trello.com/b/5gn7Ua2W/%D1%81%D0%B0%D0%B9%D1%82-http-tallinncold-timecom)
-- [Сайт зачісок](https://trello.com/b/IupEXHcH/%D1%81%D0%B0%D0%B9%D1%82-%D0%B7%D0%B0%D1%87%D1%96%D1%81%D0%BE%D0%BA)
-- [Сайт: Будуєм дім](https://trello.com/b/zimT2riK/%D1%81%D0%B0%D0%B9%D1%82-%D0%B1%D1%83%D0%B4%D1%83%D1%94%D0%BC-%D0%B4%D1%96%D0%BC)
+
+- [Leaky](https://trello.com/b/aQ0o6Bfb/leakyru)
+- [Smart Funding](https://trello.com/b/U6d2RZ8e/smart-funding)
+- [Tallin](https://trello.com/b/GYP2fZYS/tallinncold-timecom)
+- [Testmonge](https://trello.com/b/hNxhvQve/testmonge)
+- [House Forever](https://trello.com/b/crwZxOvb/%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA-%D0%BD%D0%B0%D0%B2%D1%96%D0%BA%D0%B8)
 
 ### Check-lists
 #### PC Games:
