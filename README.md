@@ -41,7 +41,7 @@
 - [Angry Birds](https://docs.google.com/spreadsheets/d/1qyBUsoAzgdXo9ehRZmgX71-gi3aPpSDIKFn-ekvOY5k/edit?usp=sharing)
 
 #### Web-sites:
-- [leaky.ru](https://docs.google.com/spreadsheets/d/1e4olPT8oirxIYBH3scaqDZKkzQKOOE6A/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
+- [leaky](https://docs.google.com/spreadsheets/d/1e4olPT8oirxIYBH3scaqDZKkzQKOOE6A/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
 - [tallin](https://docs.google.com/spreadsheets/d/1HePvO0N-zylBtIABcKL6V52t0YOC1Djx/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
 - [testmonge](https://docs.google.com/spreadsheets/d/1TYS8kvOcKzkq6YW-WQg1-1L5M-8NdYhM/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
 - [smartfunding](https://docs.google.com/spreadsheets/d/1yYWGoGG9UWwh-gjC4wjjqDxGoJiuBCeF/edit?usp=sharing&ouid=101444794316809656998&rtpof=true&sd=true)
